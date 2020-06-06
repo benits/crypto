@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img alt="Cryptovortex" title="Cryptovortex" src="https://cryptovortex.com.br/img/crypto.png" width="700px" />
+    <img alt="Cryptovortex" title="Cryptovortex" src="https://cryptovortex.com.br/img/crypto.png" width="400px" />
 </h1>
 
 <h4 align="center"> 
